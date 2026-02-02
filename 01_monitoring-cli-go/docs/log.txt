@@ -1,0 +1,12 @@
+01/02/2026 16:53:51 - https://www.alura.com.br - online: true
+01/02/2026 16:53:52 - https://httpbin.org/status/404 - online: false
+01/02/2026 16:53:53 - https://www.google.com - online: true
+01/02/2026 16:53:53 - https://httpbin.org/status/200 - online: true
+01/02/2026 16:54:44 - https://www.alura.com.br - online: true
+01/02/2026 16:54:44 - https://httpbin.org/status/404 - online: false
+01/02/2026 16:54:45 - https://www.google.com - online: true
+01/02/2026 16:54:45 - https://httpbin.org/status/200 - online: true
+01/02/2026 16:54:59 - https://www.alura.com.br - online: true
+01/02/2026 16:55:00 - https://httpbin.org/status/404 - online: false
+01/02/2026 16:55:00 - https://www.google.com - online: true
+01/02/2026 16:55:01 - https://httpbin.org/status/200 - online: true
