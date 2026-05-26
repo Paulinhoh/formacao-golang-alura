@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "nome": "Toscana com cebola",
+        "preco": 69.5,
+        "reviews": null
+    },
+    {
+        "id": 3,
+        "nome": "Calabresa com Cream Cheese",
+        "preco": 79.5,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "melhor pizza da vida!"
+            }
+        ]
+    }
+]
